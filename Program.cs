@@ -10,6 +10,8 @@ namespace _24_2Taller3D_Semana01
     {
         static void Main(string[] args)
         {
+            Menu menu = new Menu();
+            menu.Execute();
         }
     }
 }
